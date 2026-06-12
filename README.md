@@ -36,7 +36,7 @@ Before starting, download and extract the following binaries:
 ### 1.1 DNS Configuration
 WebRTC requires a **Secure Origin** (HTTPS) to function on mobile browsers.
 1. Map a subdomain (e.g., `robot.yourdomain.com`) to your Public IP.
-2. Create an **A Record** in your DNS panel (Cloudflare, ArvanCloud, etc.).
+2. Create an **A Record** in your DNS panel (Cloudflare, Your host(DirectAdmin, Cpanel), etc.).
 
 ### 1.2 Router Port Forwarding
 Ensure the following ports are open and directed to your streaming host:
